@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on methods.
-- 📫 How to reach me: vaquent on discord (all loewrcase)
+- 📫 How to reach me: vaquent on discord (all lowercase)
